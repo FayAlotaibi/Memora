@@ -22,3 +22,15 @@ Memora is an iOS travel experience app built with SwiftUI. It helps travelers cr
 
 ## Notes
 This repository was prepared from the original student project. The Xcode project structure was renamed from QVoyage to Memora without intentionally changing application behavior. The existing bundle identifier is preserved to avoid altering signing identity. Build and runtime behavior have **not** been tested in Xcode.
+## App Screenshots
+
+Explore Memora's interface, featuring personalized travel challenges, daily quests, and a travel journal.
+
+### Daily Quests
+![Daily Quests](screenshots/daily-quest.png)
+
+### Journey Overview
+![Journey Overview](screenshots/journey-overview.png)
+
+### Travel Journal
+![Travel Journal](screenshots/travel-journal.png)
