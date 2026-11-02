@@ -26,11 +26,8 @@ This repository was prepared from the original student project. The Xcode projec
 
 Explore Memora's interface, featuring personalized travel challenges, daily quests, and a travel journal.
 
-### Daily Quests
-![Daily Quests](screenshots/daily-quest.png)
-
-### Journey Overview
-![Journey Overview](screenshots/journey-overview.png)
-
-### Travel Journal
-![Travel Journal](screenshots/travel-journal.png)
+<p align="center">
+  <img src="screenshots/daily-quest.png" width="220">
+  <img src="screenshots/journey-overview.png" width="220">
+  <img src="screenshots/travel-journal.png" width="220">
+</p>
